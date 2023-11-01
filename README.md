@@ -6,10 +6,11 @@
 Time series analysis is a detailed way of analysing a sequence of data points collected over a period of time. To carry this analysis, analysts record data points at consistent intervals over a given period of time rather than just recording the data points at random or sporadically.
 Time series data is pervasive in various fields like financial markets, economics, energy, healthcare, environmental sciences and many more.
 To measure time series, it requires one to build a time series model that helps analyse and forecast the future. In this models, time is often the independent variable, and the goal is usually to make a prediction for the future. Understanding and effectively modeling time-dependent data is crucial for making informed decisions and predictions.
-In this project, we will build a time series model Using the Craigslist Vehicles Dataset
+
+In this project, I will build a time series model Using the Craigslist Vehicles Dataset
 
 The Data
-We are using data from (https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles)
+I am using data from downloaded from (https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles)
 
 ```python 
 import pandas as pd
