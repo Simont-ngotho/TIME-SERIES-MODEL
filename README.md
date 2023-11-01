@@ -42,7 +42,7 @@ tsm_data.set_index('posting_date', inplace=True)
 
 ```
 
-Data visualization to help in analyzing complex data, identifying patterns, and extracting valuable insights. Simplifying complex information and presenting it visually enables the data users to make informed and effective decisions quickly and accurately.
+Data visualization to help in analyzing complex data, identifying patterns, and extracting valuable insights in this Time Series Model. Simplifying complex information and presenting it visually will enable the users of this vehicle data make informed and effective decisions quickly and accurately.
 
 ```python 
 # Data Exploration (Exploratory Data Analysis (EDA))
@@ -57,7 +57,7 @@ plt.show()
 
 ```
 
-Time Series Model is very instrumental as it can help organizations understand the underlying causes of trends or systemic patterns over time.
+This Time Series Model will be very instrumental as it will help the organization understand the underlying causes of trends or systemic patterns over time.
 
 ```python 
 # Building a Time Series Model
